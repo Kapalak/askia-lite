@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/askia-lite/static/css/main.fc4eb8b3.chunk.css",
+    "main.js": "/askia-lite/static/js/main.db82e58e.chunk.js",
+    "main.js.map": "/askia-lite/static/js/main.db82e58e.chunk.js.map",
+    "runtime-main.js": "/askia-lite/static/js/runtime-main.3fb13ed4.js",
+    "runtime-main.js.map": "/askia-lite/static/js/runtime-main.3fb13ed4.js.map",
+    "static/css/2.27dd871e.chunk.css": "/askia-lite/static/css/2.27dd871e.chunk.css",
+    "static/js/2.e2ce3667.chunk.js": "/askia-lite/static/js/2.e2ce3667.chunk.js",
+    "static/js/2.e2ce3667.chunk.js.map": "/askia-lite/static/js/2.e2ce3667.chunk.js.map",
+    "static/js/3.8114f9fe.chunk.js": "/askia-lite/static/js/3.8114f9fe.chunk.js",
+    "static/js/3.8114f9fe.chunk.js.map": "/askia-lite/static/js/3.8114f9fe.chunk.js.map",
+    "index.html": "/askia-lite/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/askia-lite/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.fc4eb8b3.chunk.css.map": "/askia-lite/static/css/main.fc4eb8b3.chunk.css.map",
+    "static/js/2.e2ce3667.chunk.js.LICENSE.txt": "/askia-lite/static/js/2.e2ce3667.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fb13ed4.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.e2ce3667.chunk.js",
+    "static/css/main.fc4eb8b3.chunk.css",
+    "static/js/main.db82e58e.chunk.js"
+  ]
+}
